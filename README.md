@@ -6,8 +6,9 @@ I build scalable web applications, e-commerce platforms, and AI-powered projects
 ---
 
 ## 🔧 Skills
-- **Backend:** Laravel, PHP, MySQL
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Languages & Frameworks:** PHP, Laravel, Symfony, Fortify, HTML5, CSS3, Bootstrap, JavaScript.
+- **API & Integration Tools:** RESTful APIs, SOAP, Postman.
+- **Databases:** MySQL, SQLite, Oracle.
 - **AI / Machine Learning:** Python, OpenCV, Face Recognition
 - **Tools:** Git, GitHub, Composer, npm, Postman
 
@@ -20,7 +21,7 @@ I build scalable web applications, e-commerce platforms, and AI-powered projects
 - **Features:** Role-based access, project submission, supervision tracking, dashboard for admins.
 
 ### 2. [Multi-Vendor Store](https://github.com/Abdelrahman61923/Multi-Vendor-Store)
-- **Tech:** Laravel, MySQL, Blade, JavaScript, Bootstrap
+- **Tech:** Laravel, Fortify, Symfony, MySQL, Blade, JavaScript, Bootstrap
 - **Features:** Vendor management, product catalog, orders, admin panel.
 
 ### 3. [Face Recognition](https://github.com/Abdelrahman61923/Face-Recognition)
@@ -35,9 +36,6 @@ I build scalable web applications, e-commerce platforms, and AI-powered projects
 
 ## 📫 Contact
 - **LinkedIn:** https:://www.linkedin.com/in/abdoelrhmane1042002/
-- **Email:** abdoelrhmane1@gmail.com  
+- **Email:** abdoelrhmane1@gmail.com
 
----
-
-## ⭐ GitHub Stats
-![Abdelrahman61923's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman61923&show_icons=true&theme=radical)
+  
