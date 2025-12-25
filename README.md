@@ -35,7 +35,7 @@ I build scalable web applications, e-commerce platforms, and AI-powered projects
 ---
 
 ## 📫 Contact
-- **LinkedIn:** https:://www.linkedin.com/in/abdoelrhmane1042002/
+- **LinkedIn:** www.linkedin.com/in/abdoelrhmane1042002/
 - **Email:** abdoelrhmane1@gmail.com
 
   
