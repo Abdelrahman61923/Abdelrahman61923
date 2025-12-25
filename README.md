@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman 👋
+**Backend Developer specializing in Laravel | PHP, MySQL | AI & Web Applications**
 
-<!--
-**Abdelrahman61923/Abdelrahman61923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable web applications, e-commerce platforms, and AI-powered projects. Passionate about clean code, efficiency, and delivering professional solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Backend:** Laravel, PHP, MySQL
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **AI / Machine Learning:** Python, OpenCV, Face Recognition
+- **Tools:** Git, GitHub, Composer, npm, Postman
+
+---
+
+## 🌐 Featured Projects
+
+### 1. [Graduation Projects Management System](https://github.com/Abdelrahman61923/graduation-platform)
+- **Tech:** Laravel, MySQL, Blade, JavaScript
+- **Features:** Role-based access, project submission, supervision tracking, dashboard for admins.
+
+### 2. [Multi-Vendor Store](https://github.com/Abdelrahman61923/Multi-Vendor-Store)
+- **Tech:** Laravel, MySQL, Blade, JavaScript, Bootstrap
+- **Features:** Vendor management, product catalog, orders, admin panel.
+
+### 3. [Face Recognition](https://github.com/Abdelrahman61923/Face-Recognition)
+- **Tech:** Python, OpenCV, face_recognition library
+- **Features:** Detect and recognize faces from images and webcam, attendance automation ready.
+
+### 4. [Online Shop](https://github.com/Abdelrahman61923/Online_Shop)
+- **Tech:** PHP, MySQL, HTML, CSS, JavaScript
+- **Features:** Product browsing, cart management, admin panel for product management.
+
+---
+
+## 📫 Contact
+- **LinkedIn:** https:://www.linkedin.com/in/abdoelrhmane1042002/
+- **Email:** abdoelrhmane1@gmail.com  
+
+---
+
+## ⭐ GitHub Stats
+![Abdelrahman61923's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman61923&show_icons=true&theme=radical)
