@@ -24,18 +24,16 @@ I build scalable web applications, e-commerce platforms, and AI-powered projects
 - **Tech:** Laravel, Fortify, Symfony, MySQL, Blade, JavaScript, Bootstrap
 - **Features:** Vendor management, product catalog, orders, admin panel.
 
-### 3. [Face Recognition](https://github.com/Abdelrahman61923/Face-Recognition)
-- **Tech:** Python, OpenCV, face_recognition library
-- **Features:** Detect and recognize faces from images and webcam, attendance automation ready.
+### 3. [E-Commerce](https://github.com/Abdelrahman61923/E-Commerce)
+- **Tech:** Laravel, Laravel Media Library, MySQL, Blade, JavaScript
+- **Features:** User authentication, product management, shopping cart, checkout, admin dashboard.
 
-### 4. [Online Shop](https://github.com/Abdelrahman61923/Online_Shop)
-- **Tech:** PHP, MySQL, HTML, CSS, JavaScript
-- **Features:** Product browsing, cart management, admin panel for product management.
+### 4. [Eslamic-API](https://github.com/Abdelrahman61923/Eslamic-API)
+- **Tech:** Laravel, Sanctum, RESTful API, MySQL
+- **Features:** Quran verses, Azkar, Duas, prayer times, JSON API for mobile and web applications.
 
 ---
 
 ## 📫 Contact
-- **LinkedIn:** www.linkedin.com/in/abdoelrhmane1042002/
+- **LinkedIn:** https://www.linkedin.com/in/abdoelrhmane1042002/
 - **Email:** abdoelrhmane1@gmail.com
-
-  
