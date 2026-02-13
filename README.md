@@ -1,16 +1,16 @@
-# Hi, I'm Abdelrahman 👋
+# Hi, I'm Abdelrahman Salah 👋
 **Backend Developer specializing in Laravel | PHP, MySQL | AI & Web Applications**
 
-I build scalable web applications, e-commerce platforms, and AI-powered projects. Passionate about clean code, efficiency, and delivering professional solutions.
-
+Backend Developer specialized in PHP and Laravel with hands-on experience in building scalable RESTful APIs, secure authentication systems, and relational database design. Strong focus on clean architecture, performance optimization, and maintainable code. Seeking a Junior Backend Developer role where I can contribute to building scalable backend systems using Laravel and RESTful APIs.
 ---
 
 ## 🔧 Skills
-- **Languages & Frameworks:** PHP, Laravel, Symfony, Fortify, HTML5, CSS3, Bootstrap, JavaScript.
-- **API & Integration Tools:** RESTful APIs, SOAP, Postman.
-- **Databases:** MySQL, SQLite, Oracle.
-- **AI / Machine Learning:** Python, OpenCV, Face Recognition
-- **Tools:** Git, GitHub, Composer, npm, Postman
+- **Backend & Frameworks:** PHP, Laravel, Symfony, OOP, MVC, RESTful APIs, Authentication & Authorization, Design Patterns, Clean Architecture.
+- **API & Integration Tools:** Laravel Sanctum, Postman, API Resource Design.
+- **Databases:** MySQL, SQLite, Database Normalization, Query Optimization.
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript.
+- **Version Control & Deployment:** Git, GitHub, Composer.
+- **AI / Machine Learning:** Python, OpenCV, Face Recognition.
 
 ---
 
